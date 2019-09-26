@@ -11,7 +11,7 @@ const webpackBMSC = {
     entry: ['./index.js'],
     output: {
         filename: 'main-react-bmsc.js',
-        path: path.resolve(__dirname + './js'),
+        path: path.resolve(__dirname, 'build'),
     },
     module: {
         rules: [
@@ -107,7 +107,7 @@ const webpackUltraCreditos = {
     entry: ['./index.js'],
     output: {
         filename: 'main-react.js',
-        path: path.resolve(__dirname + './js'),
+        path: path.resolve(__dirname , 'build'),
     },
     module: {
         rules: [
