@@ -18,7 +18,7 @@
         "globalize": "^1.4.2",
         "iana-tz-data": "^2019.1.0",
         "lodash": "^4.17.11",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "moment-timezone": "^0.5.26",
         "nuka-carousel": "^4.5.4",
         "numeral": "^2.0.6",
